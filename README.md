@@ -10,7 +10,7 @@ There are two options for downloading the collection:
   1. Go to the [Releases](https://github.com/arrowsv/Black-Ops-1-Stock-Models/releases) page and download the latest release.
   2. Extract the downloaded zip file into your main Black Ops 1 game directory.
 
-* I want to use the assets and have the source files (~4 GB size):
+* I want to use the assets and have the source files (~2.5 GB size):
   1. Above the list of files on the repo's main page, click the `Code` button and click `Download ZIP`.
   2. Extract the downloaded zip file into your main Black Ops 1 game directory, excluding the README.md and LICENSE files.
 
