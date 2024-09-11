@@ -1,11 +1,18 @@
 # Black-Ops-1-Stock-Models
-A large collection of stock models missing from the Black Ops Mod Tools. Use on top of an installation from Mythical's [Black Ops Mod Tools Installer](https://github.com/Mythical-Github/Black-Ops-Mod-Tools-Installer) to ensure all models missing from this collection are present.
+A collection of stock models missing from the Black Ops Mod Tools. Use on top of an installation from Mythical's [Black Ops Mod Tools Installer](https://github.com/Mythical-Github/Black-Ops-Mod-Tools-Installer) to ensure all models missing from this collection are present.
 
 # Installation
-Download the repo's source code, placing the `raw`, `model_export` and `source_data` folders into the main Black Ops 1 directory.
-> [!NOTE]
-> Only the `xmodel`, `xmodelparts`, and `xmodelsurfs` folders are required for successful installation. All other folders within `raw` contain images and materials that come stock with the mod tools, which are optional to install.
-> The `source_data` and `model_export` folders are optional, but are recommended to prevent files from being deleted by the converter.
+> [!WARNING]
+> Avoid running the Converter or the "Convert All" option within Asset Manager if you choose the first installation option, as files you don't have GDTs for will be deleted.
+
+There are two options for downloading the collection:
+* I only want to use the assets (~300 MB size):
+  1. Go to the [Releases](https://github.com/arrowsv/Black-Ops-1-Stock-Models/releases) page and download the latest release.
+  2. Extract the downloaded zip file into your main Black Ops 1 game directory.
+
+* I want to use the assets and have the source files (~4 GB size):
+  1. Above the list of files on the repo's main page, click the `Code` button and click `Download ZIP`.
+  2. Extract the downloaded zip file into your main Black Ops 1 game directory, excluding the README.md and LICENSE files.
 
 # Credits
 - SE2Dev & Nukem9 - LinkerMod
